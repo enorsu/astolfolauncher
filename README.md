@@ -24,9 +24,11 @@ You need to have official Minecraft Launcher installed for the astolfo client to
 
 # Without Python(on windows)
 Download the launcher.exe from releases and place it with release.jar in the astolfo files.
-Then run launcher.exe and the launcher should run
+
+Then run launcher.exe and the launcher should start.
 
 
 # With Python 3(on windows)
-Download launcher.py from releases and place it with release.jar in the astolfo files
-There are no special Python requirements just run it with python3
+Download launcher.py from releases and place it with release.jar in the astolfo files.
+
+There are no special Python requirements just run it with python3.
