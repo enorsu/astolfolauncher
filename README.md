@@ -1,13 +1,21 @@
 # astolfolauncher(unofficial)
-open-source launcher for (cracked) astolfo
-it uses the original launch code in a nice gui
-keep in mind this has been only tested with a specific set of files from "allahleaks"
-it will not work with anything else
-and the official link is gone
-you need to dm me in discord for more info
-my username is in the launcher's credits
-the launcher is built with plain python and tkinter
-you can run the launcher without the astolfo files, but you cant launch anything with it
+open-source launcher for (cracked) astolfo.
+
+it uses the original launch code in a nice gui.
+
+keep in mind this has been only tested with a specific set of files from "allahleaks".
+
+it will not work with anything else.
+
+and the official link is gone.
+
+you need to dm me in discord for more info.
+
+my username is in the launcher's credits.
+
+the launcher is built with plain python and tkinter.
+
+you can run the launcher without the astolfo files, but you cant launch anything with it.
 
 # How to use
 Only tested on Windows 10 with Zulu 8
