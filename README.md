@@ -1,5 +1,6 @@
-# astolfolauncher
+# astolfolauncher(unofficial)
 open-source launcher for (cracked) astolfo
+it uses the original launch code in a nice gui
 keep in mind this has been only tested with a specific set of files from "allahleaks"
 it will not work with anything else
 and the official link is gone
