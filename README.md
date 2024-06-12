@@ -1,19 +1,21 @@
 # astolfolauncher(unofficial)
 open-source launcher for (cracked) astolfo
 
-it uses the original launch code in a nice gui
+It uses a slightly modified version of the launch code
 
-keep in mind this has been only tested with a specific set of files from "allahleaks"
+Keep in mind that the jar file IS RAT, also only tested with AllahLeaks's files
 
-it will not work with anything else
+It will *PROBABLY* NOT work with anything else
 
-and the official link is gone
+This ask you to install a program that DISABLES the RAT
 
-you need to dm me in discord for more info
+DM/PM me on discord for information
 
-my username is in the launcher's credits
+The Developers username is "Enorsu" (dc)
 
-the launcher is built with plain python and tkinter
+I Reworked the GUI and the launching (a bit) Username: "Panagiotis3149" (dc)
+
+The launcher was coded in python using CustomTkinter
 
 you can run the launcher without the astolfo files, but you cant launch anything with it
 
