@@ -11,7 +11,9 @@ This ask you to install a program that DISABLES the RAT
 
 DM/PM me on discord for information
 
-My username is "Enorsu" (dc)
+The Developers username is "Enorsu" (dc)
+
+I Reworked the GUI and the launching (a bit) Username: "Panagiotis3149" (dc)
 
 The launcher was coded in python using CustomTkinter
 
